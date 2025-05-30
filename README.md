@@ -3,11 +3,11 @@
 A Software Professional with extensive experience in EnterpriseSoftware Development and Engineering Software developmentwith exposure in Technical Architecture, Solutions Architecture,Product Engineering and Platform Engineering. Has worked asa Subject Matter Expert in technical domains like Windows/LinuxSystems Programming in C/C++, CAD/CAM Software Development,Computer Graphics Programming, Cross Platform Programmingand Windows Software Development using C/C++, Compilers andDomain Specific Language development etc.
 ## Featured Projects
 - 🔹 The Slang Compiler Infrastructure is a Project to Learn Compiler Construction [ https://github.com/praseedpai/SlangForDotNet]
-- 🔹 **PDE Solver** – A Python-based solver for the heat equation using finite difference methods.
+- 🔹 The HelloScript Project – Become a Polyglot Programmer very fast [https://github.com/praseedpai/HelloScript_files ]
 - 🔹 **Stochastic Calculus Simulations** – Exploring Poisson processes and jump-diffusion models in Python.
 
 ## Connect with Me
-Feel free to reach out on [LinkedIn](#) or explore my repositories below!
+Feel free to reach out on [[LinkedIn](https://www.linkedin.com/in/praseed-pai-k-t-369ba225/)](#) or explore my repositories below!
 
 
 <!--
