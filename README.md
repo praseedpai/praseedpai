@@ -1,4 +1,4 @@
-# Welcome to My GitHub 🚀
+# Welcome to Praseed Pai's Github Repository 🚀
 ## About Me
 Passionate about numerical methods, PDEs, and programming in Python, Java, and C#.
 
