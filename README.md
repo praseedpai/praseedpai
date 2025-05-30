@@ -1,7 +1,7 @@
 # Welcome to Praseed Pai's Github Repository 🚀
 ## About Me
 A Software Professional with extensive experience in EnterpriseSoftware Development and Engineering Software developmentwith exposure in Technical Architecture, Solutions Architecture,Product Engineering and Platform Engineering. Has worked asa Subject Matter Expert in technical domains like Windows/LinuxSystems Programming in C/C++, CAD/CAM Software Development,Computer Graphics Programming, Cross Platform Programmingand Windows Software Development using C/C++, Compilers andDomain Specific Language development etc.
-## Featured Projects
+## Quick Links to Some Key Resources
 - 🔹 The Slang Compiler Infrastructure is a Project to Learn Compiler Construction [ https://github.com/praseedpai/SlangForDotNet]
 - 🔹 The HelloScript Project – Become a Polyglot Programmer very fast [https://github.com/praseedpai/HelloScript_files ]
 - 🔹 E-book and Source Code to Learn GNU Linux Programming Step by Step [https://github.com/praseedpai/CD_Learn/tree/main/Chapter04/GNULinuxProgrammingTutorial]
