@@ -7,7 +7,7 @@ A Software Professional with extensive experience in EnterpriseSoftware Developm
 - 🔹 E-book and Source Code to Learn GNU Linux Programming Step by Step [https://github.com/praseedpai/CD_Learn/tree/main/Chapter04/GNULinuxProgrammingTutorial]
 - 🔹 E-book - The Art of Compiler Constrcution using C# [https://github.com/praseedpai/CompilerConstructionBook]
 - 🔹 Resources Associated with the Talk - "Elementary Mathematics for Programming"  [(https://github.com/praseedpai/ElementaryMathForProgrammingSeries/tree/master/AlgebraNArith)]
-
+- 🔹 Resources Associated with the Talk - "From Solid Principles to LIQUID Streams" [(https://github.com/praseedpai/SOLIDTOLIQUIDver1.0)]
 ## Connect with Me
 Feel free to reach out on [[LinkedIn](https://www.linkedin.com/in/praseed-pai-k-t-369ba225/)](#) or explore my repositories below!
 
