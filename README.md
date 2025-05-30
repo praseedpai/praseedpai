@@ -4,7 +4,7 @@ A Software Professional with extensive experience in EnterpriseSoftware Developm
 ## Featured Projects
 - 🔹 The Slang Compiler Infrastructure is a Project to Learn Compiler Construction [ https://github.com/praseedpai/SlangForDotNet]
 - 🔹 The HelloScript Project – Become a Polyglot Programmer very fast [https://github.com/praseedpai/HelloScript_files ]
-- 🔹 **Stochastic Calculus Simulations** – Exploring Poisson processes and jump-diffusion models in Python.
+- 🔹 EBook and Source Code to Learn GNU Linux Programming Step by Step [https://github.com/praseedpai/CD_Learn/tree/main/Chapter04/GNULinuxProgrammingTutorial]
 
 ## Connect with Me
 Feel free to reach out on [[LinkedIn](https://www.linkedin.com/in/praseed-pai-k-t-369ba225/)](#) or explore my repositories below!
