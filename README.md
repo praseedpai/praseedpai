@@ -1,7 +1,6 @@
 # Welcome to Praseed Pai's Github Repository 🚀
 ## About Me
-Passionate about numerical methods, PDEs, and programming in Python, Java, and C#.
-
+A Software Professional with extensive experience in EnterpriseSoftware Development and Engineering Software developmentwith exposure in Technical Architecture, Solutions Architecture,Product Engineering and Platform Engineering. Has worked asa Subject Matter Expert in technical domains like Windows/LinuxSystems Programming in C/C++, CAD/CAM Software Development,Computer Graphics Programming, Cross Platform Programmingand Windows Software Development using C/C++, Compilers andDomain Specific Language development etc.
 ## Featured Projects
 - 🔹 **Numerical Methods Library** – Implementations of Euler’s Method, Runge-Kutta, and Matrix Differentiation.
 - 🔹 **PDE Solver** – A Python-based solver for the heat equation using finite difference methods.
