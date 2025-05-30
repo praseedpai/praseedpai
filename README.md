@@ -10,6 +10,7 @@ A Software Professional with extensive experience in EnterpriseSoftware Developm
 - 🔹 E-book - The Art of Compiler Constrcution using C# [https://github.com/praseedpai/CompilerConstructionBook]
 - 🔹 Resources Associated with the Talk - "Elementary Mathematics for Programming"  [(https://github.com/praseedpai/ElementaryMathForProgrammingSeries/tree/master/AlgebraNArith)]
 - 🔹 Resources Associated with the Talk - "From Solid Principles to LIQUID Streams" [(https://github.com/praseedpai/SOLIDTOLIQUIDver1.0)]
+- 🔹 Resources Associated with the Training Program - "Elements of Statistical Machine Learning (Circa 2016-2020)"  [https://github.com/praseedpai/MathOrientedStuff/tree/master/MLCourse]
 ## Connect with Me
 Feel free to reach out on [[LinkedIn](https://www.linkedin.com/in/praseed-pai-k-t-369ba225/)](#) or explore my repositories below!
 
